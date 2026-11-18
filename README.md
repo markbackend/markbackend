@@ -15,6 +15,7 @@ Trabajo sobre todo con **Python**, y también con Node.js cuando el proyecto lo 
 
 | Proyecto | Qué hace | Tecnología |
 |---|---|---|
+| [bot-whatsapp-atencion](https://github.com/markbackend/bot-whatsapp-atencion) | Bot de WhatsApp con la API oficial de Meta: responde preguntas frecuentes, muestra botones, respeta el horario y pasa a una persona avisándole al dueño | Python, WhatsApp Cloud API, FastAPI |
 | [reporte-ventas-excel](https://github.com/markbackend/reporte-ventas-excel) | Toma una planilla de ventas y arma un reporte en Excel con resumen, gráficos y la lista de filas con errores | Python, pandas, openpyxl |
 | [bot-telegram-recordatorios](https://github.com/markbackend/bot-telegram-recordatorios) | Bot que programa recordatorios y responde la cotización del dólar | Python, python-telegram-bot |
 | [api-tareas](https://github.com/markbackend/api-tareas) | API de tareas con filtros, búsqueda y paginación | FastAPI, SQLAlchemy, SQLite |
